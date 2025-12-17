@@ -7,7 +7,7 @@ layout: default
 <div class='orgWrapper'>
 <img src="assets/images/Liu.jpg" alt="Qianqian Liu" width="150" />
 <div class='bioWrapper'>
-[Dr. Qianqian Liu](https://uncw.edu/profiles/l/liuq/)Dr. Qianqian Liu is an Associate Professor in the Department of Physics and Physical Oceanography, as well as the Center for Marine Science, at the University of North Carolina Wilmington. She graduated from the University of Rhode Island with a PhD degree in Physical Oceanography in 2015. Before joining the academic community in North Carolina, Dr. Liu refined her skills as a postdoctoral fellow at the NOAA Great Lakes Environmental Research Laboratory, which is affiliated with the University of Michigan and Grand Valley State University. Her research is focused on coastal and estuarine hydrodynamics and biophysical processes (particularly how the physical processes influence biological processes) using numerical and machine learning modeling.
+[Dr. Qianqian Liu](https://uncw.edu/profiles/l/liuq/) is an Associate Professor in the Department of Physics and Physical Oceanography, as well as the Center for Marine Science, at the University of North Carolina Wilmington. She graduated from the University of Rhode Island with a PhD degree in Physical Oceanography in 2015. Before joining the academic community in North Carolina, Dr. Liu refined her skills as a postdoctoral fellow at the NOAA Great Lakes Environmental Research Laboratory, which is affiliated with the University of Michigan and Grand Valley State University. Her research is focused on coastal and estuarine hydrodynamics and biophysical processes (particularly how the physical processes influence biological processes) using numerical and machine learning modeling.
 </div>
 </div>
 
