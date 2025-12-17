@@ -1,4 +1,22 @@
 title: CyberTraining at UNCW, 2023 and 2024
-description: “Cybertraining for junior marine science researchers at the beautiful coastal city of Wilmington, North Carolina.”
+description: "ybertraining for junior marine science researchers at the beautiful coastal city of Wilmington, North Carolina."
+
+timezone: "America/New_York"
+
+navigation:
+  Home: "/"
+  Call for Participants: "/cfp"
+  Schedule: "/schedule"
+  Organizers: "/organizers"
+
+
 markdown: kramdown
-theme: minima
+
+kramdown:
+  parse_span_html: true
+  parse_block_html: true
+
+plugins:
+  - jekyll-seo-tag
+
+exclude: ['README.md', 'Gemfile', 'Gemfile.lock']
