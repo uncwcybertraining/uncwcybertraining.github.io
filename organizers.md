@@ -28,7 +28,7 @@ layout: default
 <div class='orgWrapper'>
 <img src="assets/images/Wang.jpg" alt="Zhengui Wang" width="150" />
 <div class='bioWrapper'>
-[Dr. Zhengui Wang](https://www.vims.edu/ccrm/about/staff/wang_z.php) is an Assistant Research Scientist at the **Center for Coastal Resource Management, VIMS**. His research expertise is Numerical/Hydrodynamic Modeling. He received his Ph.D. in Physical Oceanography from Virginia Institute of Marine Science, William and Mary, in 2017
+[Dr. Zhengui Wang](https://www.vims.edu/ccrm/about/staff/wang_z.php) is an Associate Research Scientist at the **Center for Coastal Resource Management, VIMS**. His research expertise is Numerical/Hydrodynamic Modeling. He received his Ph.D. in Physical Oceanography from the Virginia Institute of Marine Science, William and Mary, in 2017
 
 </div>
 </div>
