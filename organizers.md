@@ -21,7 +21,7 @@ layout: default
 <div class='orgWrapper'>
 <img src="assets/images/Dogan.jpg" alt="Gulustan Dogan" width="150" />
 <div class='bioWrapper'>
-[Dr. Gulustan Dogan](https://uncw.edu/profiles/d/dogang) is an assistant professor at University of North Carolina Wilmington in Computer Science department. She worked at Yildiz Technical University as an Associate Professor. She worked at NetApp and Intel as a software engineer in Silicon Valley. She is one of the founding members of Turkish Women in Computing (TWIC), a Systers community affiliated with Anita Borg Institute. She also serves as Wilmington Ambassador of Women In Data Science Stanford.
+[Dr. Gulustan Dogan](https://uncw.edu/profiles/d/dogang) is an associate professor at University of North Carolina Wilmington in Computer Science department. She worked at Yildiz Technical University as an Associate Professor. She worked at NetApp and Intel as a software engineer in Silicon Valley. She is one of the founding members of Turkish Women in Computing (TWIC), a Systers community affiliated with Anita Borg Institute. She also serves as Wilmington Ambassador of Women In Data Science Stanford.
 </div>
 </div>
 
@@ -36,14 +36,14 @@ layout: default
 <div class='orgWrapper'>
 <img src="assets/images/Gachloo.png" alt="Mina Gachloo" width="150" />
 <div class='bioWrapper'>
-[Mina Gachloo](https://www.linkedin.com/in/mina-gachloo/) was a master student worked with Dr. Yang Song  2023-2024. Then she continued working for her Ph.D. degree at Clemson University.
+[Mina Gachloo](https://www.linkedin.com/in/mina-gachloo/) was a master's student who worked with Dr. Yang Song from 2023 to 2024. Then she continued working on her Ph.D. degree at Clemson University.
 </div>
 </div>
 
 <div class='orgWrapper'>
 <img src="assets/images/boot.jpg" alt="Katherine Boot" width="150" />
 <div class='bioWrapper'>
-[Katherine Boot](https://www.linkedin.com/in/katherine-boot-231963116/) is a PhD Student at University of North Carolina Wilmington. Her advisor is Dr. ianqian Liu, and her dissertation title is "Assessing the influence of sea-level rise induced salt intrusion and associated circulation change on southern flounder (Paralichthys lethostigma) recruitment processes in Albemarle-Pamlico Sound."
+[Katherine Boot](https://www.linkedin.com/in/katherine-boot-231963116/) is a PhD student at University of North Carolina Wilmington. Her advisor is Dr. Qianqian Liu, and her dissertation title is "Assessing the influence of sea-level rise induced salt intrusion and associated circulation change on southern flounder (Paralichthys lethostigma) recruitment processes in Albemarle-Pamlico Sound."
 </div>
 </div>
 
