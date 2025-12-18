@@ -1,7 +1,8 @@
 title: CyberTraining at UNCW, 2023 and 2024
 description: "Cybertraining for junior marine science researchers at the beautiful coastal city of Wilmington, North Carolina."
 logo: /assets/images/nsf-logo.png
-logo_alt: UNCW Logo
+logo_alt: NSF Logo
+logo_height: 60   # height in pixels
 
 timezone: "America/New_York"
 
