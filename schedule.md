@@ -25,3 +25,11 @@ layout: default
 | 1:30 pm - 2:30 pm  | Zhengui Wang | [Data formats](assets/lectures/203_pylibs_2_data_format.ipynb) <br> [Working with databases](assets/lectures/204_pylibs_3_database.ipynb)  |
 | 2:40 pm - 3:40 pm  |Qianqian Liu & Zhengui Wang | More data processing and clearning <br> [NDBC](assets/lectures/205_Data_Acquisition_NDBC_CSV_files.ipynb) <br> [sea level](assets/lectures/206_Data_acquisition_Elev_Excercise.ipynb) <br> [NetCDF](assets/lectures/207_Data_acquisition_Excercise.ipynb) <br> [river discharge](assets/lectures/208_Data_acquisition_Excercise.ipynb)  |
 | 3:50 pm - 5:00 pm  |Qianqian Liu & Zhengui Wang | [Data analysis with ocean sciense dataset](assets/lectures/209pylibs_4_data_analysis.ipynb) |
+| **Day 3 Time**      | **Speakers** | **Title** |
+| 9:10 am - 10:00 am   | Yang Song |[Machine Learning](assets/lectures/301_Machine_learning.ipynb) <br> [data files](assets/lectures/301_data.zip)  |
+| 10:15 am - 12:00 pm    | Qianqian Liu, Katherine Boot |[Introduction to HPC, CI and version control](assets/lectures/302_Intro_HPC_Github.pptx) <br> [linux command cheatsheet](302_linux-quickref.pdf)  |
+| 12:00 pm - 1:30 pm  |   | Lunch |
+| 1:30 pm - 2:30 pm  | Mina Gachloo | [Introduction to Pegasus](assets/lectures/303_2024_Pegasus_Tutorial_CyberTraining.pptx) |
+| 2:40 pm - 3:40 pm  | Yang Song | Hackthon introduction and team formation |
+| 3:50 pm - 5:00 pm  | | Wilmignton city tour |
+
