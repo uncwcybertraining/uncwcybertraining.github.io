@@ -29,7 +29,7 @@ layout: default
 | 9:10 am - 10:00 am   | Yang Song |[Machine Learning](assets/lectures/301_Machine_learning.ipynb) <br> [data files](assets/lectures/301_data.zip)  |
 | 10:15 am - 12:00 pm    | Qianqian Liu, Katherine Boot |[Introduction to HPC, CI and version control](assets/lectures/302_Intro_HPC_Github.pptx) <br> [linux command cheatsheet](302_linux-quickref.pdf)  |
 | 12:00 pm - 1:30 pm  |   | Lunch |
-| 1:30 pm - 2:30 pm  | Mina Gachloo | [Introduction to Pegasus](assets/lectures/303_2024_Pegasus_Tutorial_CyberTraining.pptx) |
+| 1:30 pm - 2:30 pm  | Mina Gachloo | [Introduction to Pegasus](assets/lectures/303_2024_Pegasus_Tutorial_CyberTraining.pptx) <br> [Pegasus tutorial files](assets/lectures/303_Pegasus_Tu-20241207T200725Z-001.zip) <br> [Pegasus tutorial video](https://drive.google.com/file/d/1PWtVF0hi-eRth9Ao6JB6KstV1gEl8QCI/view?usp=sharing) |
 | 2:40 pm - 3:40 pm  | Yang Song | Hackthon introduction and team formation |
 | 3:50 pm - 5:00 pm  | | Wilmignton city tour |
 
