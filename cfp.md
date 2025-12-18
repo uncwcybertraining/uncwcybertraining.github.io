@@ -32,7 +32,7 @@ Seating is limited to 15 participants. The program is limited to currently enrol
 * Qianqian Liu, Department of Physics and Physical Oceanography, University of North Carolina, Wilmington, USA
 * Yang Song, Department of Computer Science, University of North Carolina, Wilmington, USA
 * Gulustan Dogan, Department of Computer Science, University of North Carolina, Wilmington, USA
-* Zhengui Wang, Assistant Research Scientist, Center for Coastal Resource Management, Virginia Institute of Marine Science (VIMS), USA
+* Zhengui Wang, Associate Research Scientist, Center for Coastal Resource Management, Virginia Institute of Marine Science (VIMS), USA
 
 
 **The Program Teaching Staff**  
