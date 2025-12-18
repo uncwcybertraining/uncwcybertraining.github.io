@@ -4,16 +4,16 @@ layout: default
 
 # Overview
 
-This is the homepage for our Cybertraining for junior marine science researchers workshop at Wilmington NC, which was held in UNC Wilmington in 2023 and 2024.
+This is the homepage for our Cybertraining for junior marine science researchers workshop at Wilmington, NC, which was held at UNC Wilmington in 2023 and 2024.
 
 # Background
 
 	
-Join us in NSF supported CyberTraining to Advance Data Acquisition, Processing, and Machine Learning based Modeling in Marine Science
+Join us in NSF-supported CyberTraining to Advance Data Acquisition, Processing, and Machine Learning based Modeling in Marine Science
 
-The training program aims to advance the adoption of data science/machine learning cyber infrastructure by marine science researchers and enhance researchers' abilities in utilizing cyberinfrastructure tools. By participating in this training, you will be gaining interdisciplinary data science and machine learning skills to solve marine science research problems by working with marine science data. Your future research will be on cyberinfrastructure that can efficiently connect laboratories, share data and provide more computational power. So join and and get ready for your future research career!
+The training program aims to advance the adoption of data science/machine learning cyber infrastructure by marine science researchers and enhance researchers' abilities in utilizing cyberinfrastructure tools. By participating in this training, you will be gaining interdisciplinary data science and machine learning skills to solve marine science research problems by working with marine science data. Your future research will be on cyberinfrastructure that can efficiently connect laboratories, share data, and provide more computational power. So join us and get ready for your future research career!
 
-To promote Eiversity, Equity and Inclusion (DEI) in marine sciences, we strongly encourage participation from researchers at community colleges and minority-serving institutions.
+To promote Diversity, Equity, and Inclusion (DEI) in marine sciences, we strongly encourage participation from researchers at community colleges and minority-serving institutions.
 
 # Important Dates
 
@@ -47,4 +47,4 @@ https://forms.gle/o46cxadhkvYGN7fH8
 
 # CONTACT
 
-For additional information contact uncw.cybertraining@gmail.com
+For additional information, contact uncw.cybertraining@gmail.com
