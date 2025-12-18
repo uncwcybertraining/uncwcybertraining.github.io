@@ -32,4 +32,17 @@ layout: default
 | 1:30 pm - 2:30 pm  | Mina Gachloo | [Introduction to Pegasus](assets/lectures/303_2024_Pegasus_Tutorial_CyberTraining.pptx) <br> [Pegasus tutorial files](assets/lectures/303_Pegasus_Tu-20241207T200725Z-001.zip) <br> [Pegasus tutorial video](https://drive.google.com/file/d/1PWtVF0hi-eRth9Ao6JB6KstV1gEl8QCI/view?usp=sharing) |
 | 2:40 pm - 3:40 pm  | Yang Song | Hackthon introduction and team formation |
 | 3:50 pm - 5:00 pm  | | Wilmignton city tour |
+| **Day 4 Time**      | **Speakers** | **Title** |
+| 9:10 am - 10:00 am   | Gulustan Dogan |[Deep learning](assets/lectures/401_The_Hello_World_of_Deep_Learning_with_Neural_Networks.ipynb) <br> [data file](assets/lectures/401_coastalData.csv)  |
+| 10:15 am - 10:55 am  | Qianqian Liu |[RNN](assets/lectures/402_Sea_Surface_Temperature_Prediction_with_RNNs.ipynb) <br> [CNN](assets/lectures/403_In_Class_Exercise_Sea_Turtle_Prediction.ipynb)|
+| 11:30 am - 12:00 pm  | All instructors |Discussion about your Hackathon project ideas |
+| 12:00 pm - 1:30 pm  |   | Lunch |
+| 1:30 pm - 4:30 pm  |   |  Hackthon time | 
+| **Day 5 Time**      | **Speakers** | **Title** |
+| 9:10 am - 12:00 pm  |   |  Hackthon time | 
+| 12:00 pm - 1:30 pm  |   | Lunch |
+| 1:30 am - 3:30 pm  |   |  Hackthon presentations  | 
+| 3:30 am - 4:00 pm  | Qianqian Liu  |  HConcluding remarks  | 
+
+
 
