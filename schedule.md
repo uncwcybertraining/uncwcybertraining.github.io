@@ -41,7 +41,7 @@ layout: default
 | **Day 5 Time**      | **Speakers** | **Title** |
 | 9:10 am - 12:00 pm  |   |  Hackthon time | 
 | 12:00 pm - 1:30 pm  |   | Lunch |
-| 1:30 am - 3:30 pm  |   |  Hackthon presentations  | 
+| 1:30 am - 3:30 pm  |   |  Hackthon presentations <br> [sample project 2024](assets/lectures/599_Remote_Sensing_NPS.pdf) <br> [sample project 2023](assets/lectures/599_Dauphin_Island_Station.pdf) | 
 | 3:30 am - 4:00 pm  | Qianqian Liu  |  HConcluding remarks  | 
 
 
